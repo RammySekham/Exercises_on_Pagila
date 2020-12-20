@@ -41,6 +41,14 @@ Running Pagila on your system for querying:
           %sql
           Select rating from film limit 5;
           
+ 12. Three files in repository contains:
+        
+         1. 3NF_to_DimensionalModelling: Conversion of 3NF form to Dimensional Form
+         
+         2. OLAP_Cubes: Shows Slicing, Dicing, Roll Up and Drill down operations of OLAP
+         
+         3. Columnar Vs Row Storage Exercises
+          
            
           
  
