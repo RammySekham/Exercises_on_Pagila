@@ -47,7 +47,7 @@ Running Pagila on your system for querying:
          
          2. OLAP_Cubes: Shows Slicing, Dicing, Roll Up and Drill down operations of OLAP
          
-         3. Columnar Vs Row Storage Exercises
+         3. columnar_exercies: Columnar Vs Row Storage Exercises
           
            
           
