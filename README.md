@@ -41,7 +41,7 @@ Running Pagila on your system for querying:
           %sql
           Select rating from film limit 5;
           
- My exercises are contained in three files:
+ My exercises are contained in these files:
         
          1. create_fact_dimensions_table  & ETL_3NF_to_factdimtables: Conversion of 3NF form to Dimensional form
          
