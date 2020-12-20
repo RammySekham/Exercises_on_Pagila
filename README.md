@@ -43,7 +43,7 @@ Running Pagila on your system for querying:
           
  My exercises are contained in three files:
         
-         1. 3NF_to_DimensionalModelling: Conversion of 3NF form to Dimensional Form
+         1. 3NF_to_DimensionalModelling: Conversion of 3NF form to Dimensional form
          
          2. OLAP_Cubes: Shows Slicing, Dicing, Roll Up and Drill down operations of OLAP
          
