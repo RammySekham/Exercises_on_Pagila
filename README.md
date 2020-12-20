@@ -41,7 +41,7 @@ Running Pagila on your system for querying:
           %sql
           Select rating from film limit 5;
           
- 12. Three files in repository contains:
+ My exercises are contained in three files:
         
          1. 3NF_to_DimensionalModelling: Conversion of 3NF form to Dimensional Form
          
