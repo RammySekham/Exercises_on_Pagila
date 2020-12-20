@@ -1,7 +1,7 @@
 Running Pagila on your system for querying:
             
   1. Install postgreSQL on your system. [Link](https://www.postgresql.org/download/)
-     While downloading you can set user_name and password
+     (While downloading you can set user_name and password)
   2. Run in Command line 
              
              cd "C:\Program Files\PostgreSQL\13\bin"
@@ -28,15 +28,15 @@ Running Pagila on your system for querying:
   
   9. Pagila database is created.
   
- 10. For quering in Jupyter Notebook:
-     Open Jupyter notebook
+ 10. For quering in Jupyter Notebook
+     Open Jupyter notebook and run commands in order below:
            
            !pip install ipython-sql
            % load_ext sql
            conn_string = postgresql://<user_name>:<password>@127.0.0.1:5432/pagila
            %sql $conn_string
            
- 11. You are ready to explore data in jupyter notebook:
+ 11. You are ready to explore data in jupyter notebook
      
           %sql
           Select rating from film limit 5;
