@@ -45,7 +45,7 @@ Running Pagila on your system for querying:
         
          1. create_fact_dimensions_table  & ETL_3NF_to_factdimtables: Conversion of 3NF form to Dimensional form
          
-         2. OLAP_Cubes: Shows Slicing, Dicing, Roll Up and Drill down operations of OLAP
+         2. OLAP_Cubes: Shows Slicing, Dicing, Roll Up, Drill down, Grouping Sets and Creating Cube
          
          3. columnar_exercies: Columnar Vs Row Storage Exercises
           
